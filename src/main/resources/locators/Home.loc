@@ -1,0 +1,6 @@
+
+amazon.url=https://www.amazon.in/
+
+amazon.searchbox=twotabsearchtextbox
+
+amazon.searchbutton=//*[@value="Go"]
